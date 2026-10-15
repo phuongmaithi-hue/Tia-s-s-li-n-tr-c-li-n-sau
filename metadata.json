@@ -1,0 +1,6 @@
+{
+  "name": "Bé Khám Phá Tia Số",
+  "description": "Trò chơi Toán học tương tác dành cho học sinh lớp 1 nhận biết đứng trước – đứng sau, bé hơn – lớn hơn trên tia số trong phạm vi 10.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
